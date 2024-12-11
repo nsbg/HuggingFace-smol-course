@@ -57,4 +57,3 @@ uv: The term 'uv' is not recognized as the name of a cmdlet, function, script fi
 - https://docs.astral.sh/uv/
 - https://github.com/astral-sh/uv
 - https://github.com/huggingface/smol-course
-
